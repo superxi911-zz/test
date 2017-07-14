@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-	fmt.Println("test")
+	fmt.Println("test 1")
 	beego.Run()
 }
 
